@@ -4,13 +4,7 @@ A collection of usefull skills I created. Mostly for myself and my own way of wo
 
 ## Install
 
-Install everything in this repo:
-
-```bash
-npx skills add fayyozbekk/skills
-```
-
-Install a specific skill (e.g. `clear-writing`):
+Install the `clear-writing` skill:
 
 ```bash
 npx skills add fayyozbekk/skills --skill clear-writing

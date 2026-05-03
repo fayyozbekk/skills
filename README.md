@@ -1,7 +1,3 @@
 # skills
 
-A collection of skills.
-
-## Structure
-
-- `skills/` — individual skill definitions
+A collection of usefull skills I created. Mostly for myself and my own way of working.
